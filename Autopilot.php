@@ -1,0 +1,17 @@
+<?php return [
+  'AI actions' => 'Действия ИИ',
+  'Accept suggestion' => 'Принять предложение',
+  'Cancel' => 'Отмена',
+  'Choose image' => 'Выбрать изображение',
+  'Generating image' => 'Генерация изображения',
+  'Generating text' => 'Генерация текста',
+  'Image Generation' => 'Генерация изображений',
+  'Importing image' => 'Импорт изображения',
+  'Message content copied to clipboard' => 'Содержимое сообщения скопировано в буфер обмена',
+  'Oops! Something went wrong.' => 'Упс! Что-то пошло не так.',
+  'Size' => 'Размер',
+  'Style' => 'Стиль',
+  'Suggestion' => 'Предложение',
+  'Text Generation' => 'Генерация текста',
+  'Workmate' => 'Коллега',
+];
