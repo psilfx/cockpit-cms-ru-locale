@@ -109,6 +109,7 @@
   'Login failed.' => 'Ошибка входа.',
   'Login session expired.' => 'Сессия входа истекла.',
   'Login via Magic Link' => 'Войти по волшебной ссылке',
+  'Log in to your account' => 'Войти в свой аккаунт',
   'Logout' => 'Выйти',
   'Logs' => 'Логи',
   'Manage roles' => 'Управление ролями',
